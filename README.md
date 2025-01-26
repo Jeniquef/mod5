@@ -46,7 +46,7 @@ Ensure the following data files are available:
      - Plotted mouse weight vs. average tumor volume for the Capomulin regimen.
 
 ### 5. **Correlation and Regression**
-   - Calculated the correlation coefficient (ρ = 0.84) and performed a linear regression analysis for mouse weight and average tumor volume (Capomulin regimen).
+   - Calculated the correlation coefficient and performed a linear regression analysis for mouse weight and average tumor volume (Capomulin regimen).
    - Visualized the regression line and scatter plot to demonstrate the relationship.
 
 
